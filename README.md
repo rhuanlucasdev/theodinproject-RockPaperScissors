@@ -34,7 +34,6 @@ git clone https://github.com/yourusername/rock-paper-scissors.git
 ## 📂 Project Structure  
 
 rock-paper-scissors/
-│
 ├── index.html   # Main HTML file  
 ├── style.css    # Custom styles  
 └── script.js    # Game logic  
