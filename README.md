@@ -24,7 +24,7 @@ A simple **Rock Paper Scissors** game built with **HTML**, **CSS**, and **JavaSc
 
 ```bash
 git clone https://github.com/yourusername/rock-paper-scissors.git
-
+```
 ## Open the `index.html` file in your browser:  
 1. Navigate to the project folder.  
 2. Double-click the `index.html` file or open it in your preferred browser.  
